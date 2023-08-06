@@ -9,6 +9,6 @@
 - Developed first with the Mobile First methodology, then for desktop.
 - Compatible with all mobile devices.
 
-💙 Follow me for more projects like this. [Mayank_Patel]([https://www.youtube.com/@Bedimcode](https://github.com/mayankmp))
+💙 Follow me for more projects like this([https://www.youtube.com/@Bedimcode](https://github.com/mayankmp))
 
 ![preview img](/preview.png)
