@@ -1,6 +1,6 @@
 # Animated Login Form
 
-### Deploy Link: 
+### Deploy Link: https://mayankmp.github.io/Login-Form/
 
 - Animated Login Form Using HTML CSS & JavaScript
 - It contains a stylish and beautiful background.
